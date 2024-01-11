@@ -1,0 +1,14 @@
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.csprojAssemblyReference.cache
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+C:\Mirela\BCIT\2020 January\COMP 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.pdb
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.exe.config
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.exe
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\bin\Debug\AccountApp.pdb
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.csprojAssemblyReference.cache
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.csproj.CoreCompileInputs.cache
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.exe
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_1\AccountApp\AccountApp\obj\Debug\AccountApp.pdb

@@ -1,0 +1,10 @@
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\bin\Debug\ClassExample.exe.config
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.FormMain.resources
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.Properties.Resources.resources
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.GenerateResource.cache
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
+C:\Mirela\BCIT\2021 January\Comp 3951\Labs\Lab_2_SimpleCalculator\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.AssemblyReference.cache
